@@ -1,5 +1,6 @@
   ## 개요
  > [인프런] Practical Testing: 실용적인 테스트 가이드를 학습하며 작성하였습니다.
+ >  - [테스트 샘플 프로젝트](https://github.com/pbk1787/test-cafekiosk "sample project link")
 
 ------------
  ### 테스트가 필요한 이유는 무엇일까?
@@ -134,7 +135,7 @@
     - 비즈니스 흐름과 관계없는 부분 = 관점을 모아서 모듈로 분리
     - spring에서는 proxy를 사용하여 구현하고 있다
     - ex) transaction
-    
+
 ----
 
 ### JPA
